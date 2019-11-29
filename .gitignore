@@ -1,4 +1,3 @@
-unc.edu_LGG_IlluminaHiSeq_RNASeqV2.geneExp.tsv
-unc.edu_LUSC_IlluminaHiSeq_RNASeqV2.geneExp.tsv
-unc.edu_PRAD_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+data/
+raw_data/
 .ipynb_checkpoints/
